@@ -1,6 +1,8 @@
 {
   "name": "vue-js-app",
   "version": "0.0.0",
+  "author": "arpit04tripathi",
+  "description": "Learn and Practice vue js 3",
   "private": true,
   "scripts": {
     "dev": "vite",
