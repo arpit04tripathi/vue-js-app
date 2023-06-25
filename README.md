@@ -66,3 +66,11 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+
+```sh
+npm run format
+```
+
+# Additional Docs
+
+- [Setup and Deployment](./deploy/README.md)
